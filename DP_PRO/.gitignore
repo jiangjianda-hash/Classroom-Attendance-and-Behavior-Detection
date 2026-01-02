@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 输出文件
+*.csv
+*.txt
+attendance_report.csv
+*_report*.txt
+*_report*.csv
+
+# 运行生成的目录/缓存（建议不提交）
+attendance_images/
+task2_marked_images/
+
+# 视频和图片（如果不想提交）
+*.mp4
+*.avi
+*.mov
+*.jpg
+*.jpeg
+*.png
+student_photos/
+classroom_video.mp4
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# Office 临时文件
+~$*.xlsx
+
